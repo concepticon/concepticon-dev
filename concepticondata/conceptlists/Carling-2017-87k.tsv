@@ -1,0 +1,88 @@
+ID	NUMBER	CONCEPTICON_ID	CONCEPTICON_GLOSS	ENGLISH	DIACL_ID	DIACL_CATEGORY	DIACL_NOTE
+Carling-2017-87k-1	1			to plough	12573	Activities	
+Carling-2017-87k-2	2			to sew	12574	Activities	
+Carling-2017-87k-3	3			to sow	12575	Activities	
+Carling-2017-87k-4	4			to spin (thread)	12576	Activities	
+Carling-2017-87k-5	5			to weave	12577	Activities	
+Carling-2017-87k-6	6			axe	12578	Agricultural tools etc.	
+Carling-2017-87k-7	7			cultivated field	12580	Agricultural tools etc.	
+Carling-2017-87k-8	8			plough	12583	Agricultural tools etc.	
+Carling-2017-87k-9	9			saw	12584	Agricultural tools etc.	
+Carling-2017-87k-10	10			scythe	12585	Agricultural tools etc.	
+Carling-2017-87k-11	11			sickle	12586	Agricultural tools etc.	
+Carling-2017-87k-12	12			spade	12587	Agricultural tools etc.	
+Carling-2017-87k-13	13			wagon	12588	Agricultural tools etc.	
+Carling-2017-87k-14	14			wheel	12589	Agricultural tools etc.	
+Carling-2017-87k-15	15			yoke	12590	Agricultural tools etc.	
+Carling-2017-87k-16	16			(ceramic) pot	12671	Agricultural tools etc.	
+Carling-2017-87k-17	17			pasture	12672	Agricultural tools etc.	
+Carling-2017-87k-18	18			apple	12591	Crops & fruit	
+Carling-2017-87k-19	19			barley	12592	Crops & fruit	
+Carling-2017-87k-20	20			flax	12593	Crops & fruit	
+Carling-2017-87k-21	21			grain (generic)	12594	Crops & fruit	
+Carling-2017-87k-22	22			grape	12595	Crops & fruit	
+Carling-2017-87k-23	23			oats	12597	Crops & fruit	
+Carling-2017-87k-24	24			rye	12598	Crops & fruit	
+Carling-2017-87k-25	25			turnip	12599	Crops & fruit	
+Carling-2017-87k-26	26			wheat	12600	Crops & fruit	
+Carling-2017-87k-27	27			bee	12601	Farm animals	
+Carling-2017-87k-28	28			bull	12602	Farm animals	
+Carling-2017-87k-29	29			cat	12604	Farm animals	
+Carling-2017-87k-30	30			cattle	12605	Farm animals	
+Carling-2017-87k-31	31			chicken	12606	Farm animals	
+Carling-2017-87k-32	32			cow	12608	Farm animals	
+Carling-2017-87k-33	33			dog	12609	Farm animals	
+Carling-2017-87k-34	34			donkey	12610	Farm animals	
+Carling-2017-87k-35	35			duck	12611	Farm animals	
+Carling-2017-87k-36	36			goat	12612	Farm animals	
+Carling-2017-87k-37	37			hen	12613	Farm animals	
+Carling-2017-87k-38	38			horse	12614	Farm animals	
+Carling-2017-87k-39	39			lamb	12616	Farm animals	
+Carling-2017-87k-40	40			ox	12617	Farm animals	
+Carling-2017-87k-41	41			pig	12618	Farm animals	
+Carling-2017-87k-42	42			piglet	12619	Farm animals	
+Carling-2017-87k-43	43			ram	12620	Farm animals	
+Carling-2017-87k-44	44			rooster	12621	Farm animals	
+Carling-2017-87k-45	45			sheep	12622	Farm animals	
+Carling-2017-87k-46	46			copper	12623	Metals & materials	
+Carling-2017-87k-47	47			gold	12624	Metals & materials	
+Carling-2017-87k-48	48			iron	12625	Metals & materials	
+Carling-2017-87k-49	49			leather	12626	Metals & materials	
+Carling-2017-87k-50	50			silver	12627	Metals & materials	
+Carling-2017-87k-51	51			stone	12628	Metals & materials	
+Carling-2017-87k-52	52			wood	12629	Metals & materials	
+Carling-2017-87k-53	53			fur	12630	Products	
+Carling-2017-87k-54	54			grease	12631	Products	
+Carling-2017-87k-55	55			honey	12632	Products	
+Carling-2017-87k-56	56			mead	12633	Products	
+Carling-2017-87k-57	57			meat	12634	Products	
+Carling-2017-87k-58	58			milk	12635	Products	
+Carling-2017-87k-59	59			salt	12636	Products	
+Carling-2017-87k-60	60			beeswax	12637	Products	
+Carling-2017-87k-61	61			wine	12638	Products	
+Carling-2017-87k-62	62			wool	12639	Products	
+Carling-2017-87k-63	63			hops	12673	Products	
+Carling-2017-87k-64	64			autumn / harvest	12640	Seasons	
+Carling-2017-87k-65	65			spring	12642	Seasons	
+Carling-2017-87k-66	66			summer	12643	Seasons	
+Carling-2017-87k-67	67			winter	12644	Seasons	
+Carling-2017-87k-68	68			arrow	12650	Weapons etc.	
+Carling-2017-87k-69	69			bow	12651	Weapons etc.	
+Carling-2017-87k-70	70			knife	12652	Weapons etc.	
+Carling-2017-87k-71	71			spear	12653	Weapons etc.	
+Carling-2017-87k-72	72			sword	12654	Weapons etc.	
+Carling-2017-87k-73	73			army	12674	Weapons etc.	
+Carling-2017-87k-74	74			battle axe	12675	Weapons etc.	
+Carling-2017-87k-75	75			shield	12676	Weapons etc.	
+Carling-2017-87k-76	76			bear	12655	Wild animals	
+Carling-2017-87k-77	77			bison	12656	Wild animals	
+Carling-2017-87k-78	78			eagle	12658	Wild animals	
+Carling-2017-87k-79	79			fox	12659	Wild animals	
+Carling-2017-87k-80	80			hare / rabbit	12660	Wild animals	
+Carling-2017-87k-81	81			jackal	12661	Wild animals	
+Carling-2017-87k-82	82			leopard	12662	Wild animals	
+Carling-2017-87k-83	83			lion	12663	Wild animals	
+Carling-2017-87k-84	84			raven	12667	Wild animals	
+Carling-2017-87k-85	85			snake	12668	Wild animals	
+Carling-2017-87k-86	86			wild pig	12669	Wild animals	
+Carling-2017-87k-87	87			wolf	12670	Wild animals	
