@@ -1,0 +1,216 @@
+English	Bislama
+hand	han
+left	lef
+right	raet
+leg	leg
+walk	wokabaot
+road	rod
+come	kam
+turn	tanem
+swim	swim (olsem long solwota; no long swimhaos)
+dirty	toti
+dust	tas
+skin	sikin
+back	baksaed
+belly	bel
+bone	bun
+intestines	ol kat
+liver	leva
+breast	titi
+shoulder	solda
+know v.	save (taem we yu save, olsem 'mi save')
+think v.	tingting (taem we yu tingting, olsem 'mi tingbaot')
+fear 	fraet
+blood	blad
+head	hed
+neck	nek
+hair	hea
+nose	nus
+breathe	pulum win
+sniff	smelem
+mouth	maot
+tooth	tut
+tongue	tang
+laugh v.	laf
+cry v.	krae
+vomit	traot
+spit	spet
+eat	kakae
+chew	chuwim
+cook	kuk
+drink	dring
+bite	kakae witim tut
+suck	(olsem taem we babi i titi)
+ear	sorae
+hear	harem
+eye	ae
+see	lukluk
+yawn	wantem silip
+sleep	silip
+lie_down	ledaon
+dream v.	drim (taem we yu drim)
+sit	sidaon
+stand	stanap
+person	person (man o woman)
+man	man
+woman	woman
+child	pikinini
+husband	husban (man blong wan woman)
+wife	waef (woman blong wan man)
+mother	mama
+father	papa
+house	haos
+thatch	tatj
+name	nem
+say	talem
+rope	rop
+tie	fasem taet
+sew	somap
+needle	nedel
+hunt	kasem (wael animal)
+shoot	shutum
+stab	stikim
+hit	kilim
+steal	stilim
+kill	kilimded
+die v.	taem we yu ded
+live v.	taem we yu laev
+scratch	sikrasem
+cut	katem
+wood	wud
+split	spletem
+sharp	shap
+blunt	no shap
+work	wok
+plant	planem
+choose	jusum
+grow	groem up (no minim groem wan sumting)
+swell	solap
+squeeze	skwisim (olsem jus blong wan frut)
+hold	holem
+dig	digim
+buy	pem
+open	openem (olsem wan sospan)
+pound	kilkilim
+throw	sakemaot
+fall	foldaon (olsem wan frut)
+dog	dog
+bird	pijin
+egg	ek
+feather	feta
+wing	win
+fly v.	flae
+rat	rat
+meat	mit
+fat	kris/glis
+tail	tel
+snake	snek
+worm	wom
+louse	laus
+mosquito	moskito
+spider	spida
+fish	fis
+rotten	sting/roten
+branch	branj
+leaf	lif
+root	rus
+flower	flowa
+fruit	frut
+grass	kras
+earth	kraon
+stone	ston
+sand	sanbij
+water	wota
+flow	wota i ron 
+sea	solwota
+salt	sol
+lake	lek (o bel wota)
+woods	dak bus
+sky	skae (no minim klaud)
+moon	mun
+star	sta
+cloud	klaud
+fog	fok (olsem smok long moning)
+rain	ren
+thunder	tanda
+lightning	laetning
+wind	win
+blow	blo (olsem win)
+warm	wom (blong ples, blong weta)
+cold	kolkol (blong ples, blong weta)
+dry	drae
+wet	wetwet
+heavy	hevi
+fire	faea
+burn	bon
+smoke	smok
+ash	asis
+black	blak
+white	waet
+red	red
+yellow	yalo
+green	grin
+small	smol
+big	big
+short	shot
+long	long
+thin	tintin
+thick	tik
+narrow	naro
+wide	waed
+painful	soa
+shy	shem/kwaet
+old	olfala
+new	niu
+good	gud
+bad	bad, rabis
+correct	strait, tru
+night	naet
+day	dei
+year	yia (12 manis)
+when	wanem taem
+hide	haetem
+climb	klaem
+at	long
+in	insaed
+above	antap
+below	andanit
+this	hemia ia
+that	hemia longwei
+near	kolosap
+far	longwei
+where	wea
+1S	mi
+2S	yu
+3S	hem
+1P_incl	yumi
+1P_excl	mifala
+1D_incl	yumitu
+1D_excl	mitufala
+2P	yufala
+2D	yutufala
+3P	olgeta
+3D	tufala
+what	wanem
+who	hu
+other	narafala, narawan
+all	ol
+and	mo
+if	sipos
+how	hao, olsem wanem
+no	no
+count	kaontem
+one	wan
+two	tu
+three	tri
+four	fo
+five	faiv
+six	sikis
+seven	seven
+eight	eit
+nine	naen
+ten	ten
+twenty	twenti
+fifty	fifti
+one_hundred	wan hundred
+one_thousand	wan taosan

@@ -1,0 +1,216 @@
+NUMBER	ENGLISH	Bislama
+1	hand	han
+2	left	lef
+3	right	raet
+4	leg	leg
+5	walk	wokabaot
+6	road	rod
+7	come	kam
+8	turn	tanem
+9	swim	swim (olsem long solwota; no long swimhaos)
+10	dirty	toti
+11	dust	tas
+12	skin	sikin
+13	back	baksaed
+14	belly	bel
+15	bone	bun
+16	intestines	ol kat
+17	liver	leva
+18	breast	titi
+19	shoulder	solda
+20	know v.	save (taem we yu save, olsem 'mi save')
+21	think v.	tingting (taem we yu tingting, olsem 'mi tingbaot')
+22	fear 	fraet
+23	blood	blad
+24	head	hed
+25	neck	nek
+26	hair	hea
+27	nose	nus
+28	breathe	pulum win
+29	sniff	smelem
+30	mouth	maot
+31	tooth	tut
+32	tongue	tang
+33	laugh v.	laf
+34	cry v.	krae
+35	vomit	traot
+36	spit	spet
+37	eat	kakae
+38	chew	chuwim
+39	cook	kuk
+40	drink	dring
+41	bite	kakae witim tut
+42	suck	(olsem taem we babi i titi)
+43	ear	sorae
+44	hear	harem
+45	eye	ae
+46	see	lukluk
+47	yawn	wantem silip
+48	sleep	silip
+49	lie_down	ledaon
+50	dream v.	drim (taem we yu drim)
+51	sit	sidaon
+52	stand	stanap
+53	person	person (man o woman)
+54	man	man
+55	woman	woman
+56	child	pikinini
+57	husband	husban (man blong wan woman)
+58	wife	waef (woman blong wan man)
+59	mother	mama
+60	father	papa
+61	house	haos
+62	thatch	tatj
+63	name	nem
+64	say	talem
+65	rope	rop
+66	tie	fasem taet
+67	sew	somap
+68	needle	nedel
+69	hunt	kasem (wael animal)
+70	shoot	shutum
+71	stab	stikim
+72	hit	kilim
+73	steal	stilim
+74	kill	kilimded
+75	die v.	taem we yu ded
+76	live v.	taem we yu laev
+77	scratch	sikrasem
+78	cut	katem
+79	wood	wud
+80	split	spletem
+81	sharp	shap
+82	blunt	no shap
+83	work	wok
+84	plant	planem
+85	choose	jusum
+86	grow	groem up (no minim groem wan sumting)
+87	swell	solap
+88	squeeze	skwisim (olsem jus blong wan frut)
+89	hold	holem
+90	dig	digim
+91	buy	pem
+92	open	openem (olsem wan sospan)
+93	pound	kilkilim
+94	throw	sakemaot
+95	fall	foldaon (olsem wan frut)
+96	dog	dog
+97	bird	pijin
+98	egg	ek
+99	feather	feta
+100	wing	win
+101	fly v.	flae
+102	rat	rat
+103	meat	mit
+104	fat	kris/glis
+105	tail	tel
+106	snake	snek
+107	worm	wom
+108	louse	laus
+109	mosquito	moskito
+110	spider	spida
+111	fish	fis
+112	rotten	sting/roten
+113	branch	branj
+114	leaf	lif
+115	root	rus
+116	flower	flowa
+117	fruit	frut
+118	grass	kras
+119	earth	kraon
+120	stone	ston
+121	sand	sanbij
+122	water	wota
+123	flow	wota i ron 
+124	sea	solwota
+125	salt	sol
+126	lake	lek (o bel wota)
+127	woods	dak bus
+128	sky	skae (no minim klaud)
+129	moon	mun
+130	star	sta
+131	cloud	klaud
+132	fog	fok (olsem smok long moning)
+133	rain	ren
+134	thunder	tanda
+135	lightning	laetning
+136	wind	win
+137	blow	blo (olsem win)
+138	warm	wom (blong ples, blong weta)
+139	cold	kolkol (blong ples, blong weta)
+140	dry	drae
+141	wet	wetwet
+142	heavy	hevi
+143	fire	faea
+144	burn	bon
+145	smoke	smok
+146	ash	asis
+147	black	blak
+148	white	waet
+149	red	red
+150	yellow	yalo
+151	green	grin
+152	small	smol
+153	big	big
+154	short	shot
+155	long	long
+156	thin	tintin
+157	thick	tik
+158	narrow	naro
+159	wide	waed
+160	painful	soa
+161	shy	shem/kwaet
+162	old	olfala
+163	new	niu
+164	good	gud
+165	bad	bad, rabis
+166	correct	strait, tru
+167	night	naet
+168	day	dei
+169	year	yia (12 manis)
+170	when	wanem taem
+171	hide	haetem
+172	climb	klaem
+173	at	long
+174	in	insaed
+175	above	antap
+176	below	andanit
+177	this	hemia ia
+178	that	hemia longwei
+179	near	kolosap
+180	far	longwei
+181	where	wea
+182	1S	mi
+183	2S	yu
+184	3S	hem
+185	1P_incl	yumi
+186	1P_excl	mifala
+187	1D_incl	yumitu
+188	1D_excl	mitufala
+189	2P	yufala
+190	2D	yutufala
+191	3P	olgeta
+192	3D	tufala
+193	what	wanem
+194	who	hu
+195	other	narafala, narawan
+196	all	ol
+197	and	mo
+198	if	sipos
+199	how	hao, olsem wanem
+200	no	no
+201	count	kaontem
+202	one	wan
+203	two	tu
+204	three	tri
+205	four	fo
+206	five	faiv
+207	six	sikis
+208	seven	seven
+209	eight	eit
+210	nine	naen
+211	ten	ten
+212	twenty	twenti
+213	fifty	fifti
+214	one_hundred	wan hundred
+215	one_thousand	wan taosan
